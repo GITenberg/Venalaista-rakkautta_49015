@@ -1,0 +1,32 @@
+_repo: Venalaista-rakkautta_49015
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2015-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49015'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+tableOfContents: Arvoituksellinen luonne -- Iso Volodja ja pikku Volodja -- Ariadna
+  -- Vera -- Volodja -- Taudinpuuska -- Huimapää
+title: Venäläistä rakkautta
+url: http://www.gutenberg.org/ebooks/49015
