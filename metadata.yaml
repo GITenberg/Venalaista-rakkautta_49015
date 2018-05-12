@@ -1,9 +1,13 @@
 _repo: Venalaista-rakkautta_49015
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Silvanto, Reino
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49015#Venalaista-rakkautta
 gutenberg_issued: '2015-05-21'
 gutenberg_type: Text
 identifiers:
